@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hey there, Yoga Is Heree! 👋
 
-<!--
-**Yogauserganteng/Yogauserganteng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hello 👋. I'm YogaxD, I'm a student in junior high school, I make small projects and I'm not good at coding, I make projects just from scrap materials:v
+
+## Get in touch ☕
+
+- [Personal Blog](https://yogakokxd.my.id)
+- [Twitter](https://x.com/yogakokxd)
+- [Youtube](https://youtube.com/YogaxD)
+- [Instagram](https://instagram.com/@yogakokxd)
